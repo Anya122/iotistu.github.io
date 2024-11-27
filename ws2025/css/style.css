@@ -172,6 +172,13 @@ header.autoshow {
 	top: -120px;
 	height: 70px !important;
 }
+
+.ahref{
+	text-decoration: underline;
+	
+}
+
+
 header.autoshow.scrollOn, header.autoshow.scrollOff {
 	-o-transition: .5s;
 	-ms-transition: .5s;
