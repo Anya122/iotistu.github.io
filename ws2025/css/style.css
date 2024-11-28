@@ -5132,6 +5132,10 @@ footer .widget_list li a {
 	/*color: rgba(255, 0, 123, 1);*/
 }
 
+.logocontact{
+	width: 15%;
+}
+
 .schedule-item .sc-info {
 	margin-left: 20px;
 	width: 60%;

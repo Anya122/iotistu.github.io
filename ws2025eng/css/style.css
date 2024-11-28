@@ -1675,6 +1675,9 @@ a.btn-custom, .btn-custom {
 	text-decoration:none;
 }
 
+.logocontact{
+	width: 15%;
+}
 
 a.btn-border {
 	border: solid 1px rgba(255, 255, 255, 1);
