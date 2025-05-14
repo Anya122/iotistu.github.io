@@ -6963,6 +6963,33 @@ a, img {
 	z-index: 10;
 }
 
+.book{
+	border: 3px solid #2FBFCA;
+	border-radius: 30px;
+	padding: 20px 50px;
+	display: flex;
+	gap: 40px;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.book :hover{
+	opacity: 0.8;
+}
+
+.booking {
+	height: 80px;
+	width:  80px;
+	background-image: url('./colors/document.png');
+}
+
+.bookhref{
+	font-size: 25px;
+	display: block;
+	 
+}
+
 /* ================================================== */
 
 
